@@ -1,0 +1,7 @@
+c1=("apple","mango","banana")
+c2=("tomato","potato","brinjal")
+c3=c1+c2
+print(c3)
+output:
+('apple', 'mango', 'banana', 'tomato', 'potato', 'brinjal')
+
